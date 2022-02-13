@@ -1,0 +1,9 @@
+{
+  "categoryName": "dog",
+  "name": "rex",
+  "photoUrls": [ "photo_1" ],
+  "tagName": "animal",
+  "status": "available",
+  "available": "available",
+  "notAvailable": "not available"
+}

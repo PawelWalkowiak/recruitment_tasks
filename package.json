@@ -1,0 +1,19 @@
+{
+  "name": "recruitment_tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.4.1"
+  },
+  "devDependencies": {
+    "faker": "^6.6.6"
+  }
+}
